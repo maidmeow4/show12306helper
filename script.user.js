@@ -6,7 +6,6 @@
 // @author       maidmeow4
 // @license GPL-3.0-or-later
 // @match        *://kyfw.12306.cn/otn/leftTicket/*
-// @grant        GM_addStyle
 // ==/UserScript==
 
 var drawer = document.getElementById("sear-sel-bd");
