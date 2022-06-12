@@ -9,7 +9,7 @@
 // ==/UserScript==
 
 var drawer = document.getElementById("sear-sel-bd");
-var drawerHeight = 179;
+var drawerHeight = 40;
 drawer.style.height = drawerHeight + 'px';
 console.log('Helper: Enlarged drawer to ' + drawerHeight + 'px!');
 
