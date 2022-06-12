@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         显示被隐藏的 12306 订票帮手
 // @namespace    ShowMe12306TicketHelper
-// @version      1.2
+// @version      1.3
 // @description  显示被隐藏的12306订票帮手
 // @author       maidmeow4
 // @license GPL-3.0-or-later
